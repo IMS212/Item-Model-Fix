@@ -4,7 +4,8 @@
   "package": "me.pepperbell.itemmodelfix.mixin",
   "compatibilityLevel": "JAVA_8",
   "client": [
-    "ItemModelGeneratorMixin"
+    "ItemModelGeneratorMixin",
+    "SpriteInvoker"
   ],
   "injectors": {
     "defaultRequire": 1
